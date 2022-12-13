@@ -1,0 +1,13 @@
+=> [INFO] Program started
+=> [INFO] 20 Books imported from file "default_books.xlsx"
+=> [WARNING] User is not a librarian
+=> [WARNING] User is not a librarian
+=> [INFO] Book borrowed
+=> [WARNING] User is not a librarian
+=> [WARNING] User is not a librarian
+=> [INFO] Librarian logged in
+=> [INFO] Book "Name_19 (892374912797)" removed by librarian
+=> [INFO] Book "Name_17 (129384721937)" reserved
+=> [WARNING] Book is reserved
+=> [INFO] 5 Books imported from file "morebooks.xlsx"
+=> [INFO] Program ended
